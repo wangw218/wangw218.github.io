@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wen Wang,Launches Site"
+title: "Launche Site"
 date: 2021-03-08
 ---
 
