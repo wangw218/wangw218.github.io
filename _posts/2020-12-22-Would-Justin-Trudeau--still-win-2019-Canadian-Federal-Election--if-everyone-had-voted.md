@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Would Justin Trudeau still win the 2019 Canadian Federal Election if "everyone" had voted using MLR?"
-date: 2021-03-08
+date: 2020-12-22
 ---
 
 From an [article](https://www.economist.com/graphic-detail/2019/07/06/if-everyone-had-voted-hillary-clinton-wouldprobably-be-president) in The Economist , if “everyone” had voted in 2016 US presidential election, Hillary Clinton would probably be president.
