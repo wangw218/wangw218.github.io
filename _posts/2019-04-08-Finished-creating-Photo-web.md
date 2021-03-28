@@ -4,7 +4,7 @@ title: "Finished the creation of the photo-sharing website!"
 date: 2019-04-08
 ---
 
-My 3 partners and me finished our photo-sharing website!!! Our website is named "**phoTo**"! The link is [here](https://life-photo.herokuapp.com).
+My 3 partners and me finished our photo-sharing website!!! Our website is named "**phoTo**"! The link is [here](https://life-photo.herokuapp.com) (might need take sometime to load, be paticent:D).
 
 **The inspiration behind our website**:
 Nowadays, sharing photos has became a common habit among the youth. 
